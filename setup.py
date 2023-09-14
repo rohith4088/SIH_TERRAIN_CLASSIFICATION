@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "SIH_TERRAIN_CLASSIFICATION"
 AUTHOR_USER_NAME = "rohith4088"
-SRC_REPO = "terrainclassfier"
+SRC_REPO = "terrainclassifier"
 AUTHOR_EMAIL = "rohithjaya2003@gmail.com"
 
 
